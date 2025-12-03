@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "1",
+    "title": "E2E Test Bug",
+    "description": "Testing bug creation",
+    "status": "open",
+    "priority": "medium",
+    "reportedBy": "Chima Marcel",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
